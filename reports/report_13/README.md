@@ -6,7 +6,9 @@
 
 The application has a live chat feature that uses WebSockets for real-time communication.
 
-However, the application does not validate messages.
+The application does validate the messages and blocks users sending messages with suspicious payloads.
+
+However, there are obfuscation techniques that can be used to bypass the filters and inject malicious payloads.
 
 An attacker can manipulate the messages and conduct XSS attacks.
 
