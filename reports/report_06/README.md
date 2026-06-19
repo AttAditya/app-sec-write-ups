@@ -16,7 +16,8 @@ With enough time and compute, it is possible to brute-force the login for some o
 2. Try logging in with different usernames and passwords.
 3. While manually attempting might be possible, but it is still slow. Copy a single login request as a cURL / fetch / etc.
 4. Use a script to automate the login attempts with a list of common usernames and passwords.
-5. First, to search for valid usernames keep iterating until you get the "In
+5. First, to search for valid usernames keep iterating until you get the "Invalid password" response. This indicates that the username is valid, but the password is incorrect.
+6. Once you have a valid username, you can then iterate through the list of common passwords to find the correct password for that username.
 
 # Proof of Concept 
 
