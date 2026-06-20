@@ -36,6 +36,7 @@ Change session cookie: Change payload `sub` from username to "`administrator`".
 # CVSS Justification
 
 ```
+Base Score: 4.9
 CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:N
 ```
 

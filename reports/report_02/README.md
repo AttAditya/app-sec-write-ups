@@ -47,6 +47,7 @@ fetch("/product/stock", {
 # CVSS Justification
 
 ```
+Base Score: 8.6
 CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:L
 ```
 

@@ -41,6 +41,7 @@ Modify the serialized data to escalate privileges and become an administrator: S
 # CVSS Justification
 
 ```
+Base Score: 3.8
 CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:L/I:L/A:N
 ```
 

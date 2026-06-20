@@ -36,6 +36,7 @@ Add to end of lab URL: `/filter?category=Accessories%27+OR+1=1+--`
 # CVSS Justification
 
 ```
+Base Score: 5.3
 CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N
 ```
 

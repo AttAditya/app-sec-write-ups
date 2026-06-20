@@ -40,6 +40,7 @@ Change the intercepted URL to something else like: `http://localhost/admin`
 # CVSS Justification
 
 ```
+Base Score: 9.1
 CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:N
 ```
 

@@ -35,6 +35,7 @@ An attacker can also use this information to find more vulnerabilities in the ap
 # CVSS Justification
 
 ```
+Base Score: 0.0
 CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:N
 ```
 

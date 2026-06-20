@@ -42,6 +42,7 @@ An attacker can use this to change to the company email address of an administra
 # CVSS Justification
 
 ```
+Base Score: 6.5
 CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N
 ```
 

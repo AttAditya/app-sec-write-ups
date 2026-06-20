@@ -37,6 +37,7 @@ Add to end of lab URL: `/?message=<%=%207*7%20%>`
 # CVSS Justification
 
 ```
+Base Score: 8.6
 CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:L
 ```
 

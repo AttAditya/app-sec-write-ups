@@ -35,6 +35,7 @@ These endpoints can be exploited by attackers to gain unauthorized access to sen
 # CVSS Justification
 
 ```
+Base Score: 7.1
 CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:H/A:N
 ```
 

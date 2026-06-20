@@ -37,6 +37,7 @@ Add to end of lab URL: `/?search=<script>alert%281%29<%2Fscript>`
 # CVSS Justification
 
 ```
+Base Score: 5.3
 CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N
 ```
 

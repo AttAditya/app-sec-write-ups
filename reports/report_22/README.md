@@ -40,6 +40,7 @@ Add to end of lab URL: `/post?postId=10&url=https://attaditya.space/`
 # CVSS Justification
 
 ```
+Base Score: 0.0
 CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:N
 ```
 

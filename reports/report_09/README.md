@@ -31,6 +31,7 @@ However, the application does not properly restrict access to the admin panel. A
 # CVSS Justification
 
 ```
+Base Score: 5.4
 CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:N
 ```
 

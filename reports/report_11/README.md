@@ -39,6 +39,7 @@ This allows an attacker to bypass the limit and purchase more items than allowed
 # CVSS Justification
 
 ```
+Base Score: 5.3
 CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N
 ```
 

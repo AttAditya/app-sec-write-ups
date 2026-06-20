@@ -37,6 +37,7 @@ An attacker can exploit this vulnerability to access sensitive files on the serv
 # CVSS Justification
 
 ```
+Base Score: 7.5
 CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N
 ```
 

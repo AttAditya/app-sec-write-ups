@@ -47,6 +47,7 @@ Upload PHP file with the following content:
 # CVSS Justification
 
 ```
+Base Score: 7.1
 CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:H
 ```
 
