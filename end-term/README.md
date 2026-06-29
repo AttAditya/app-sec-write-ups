@@ -16,3 +16,9 @@
 | `Vulnerability Report 07`   | [vuln07/README.md](vuln07/README.md) |
 | `Vulnerability Report 08`   | [vuln08/README.md](vuln08/README.md) |
 
+# Source Leak Exclusive Vulnerability
+
+> These are vulnerabilities that were found only because of source code leak, otherwise they would have been impossible to find, or at least extremely difficult to discover.
+
+- SSRF from Seller Dashboard to Internal API
+
