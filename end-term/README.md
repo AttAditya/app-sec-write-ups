@@ -13,4 +13,5 @@
 | ------------- | ------------------------------------------ |
 | `Vulnerability Report 05`   | [vuln05/README.md](vuln05/README.md) |
 | `Vulnerability Report 06`   | [vuln06/README.md](vuln06/README.md) |
+| `Vulnerability Report 07`   | [vuln07/README.md](vuln07/README.md) |
 
