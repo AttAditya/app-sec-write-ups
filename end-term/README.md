@@ -15,6 +15,7 @@
 | `Vulnerability Report 06`   | [vuln06/README.md](vuln06/README.md) |
 | `Vulnerability Report 07`   | [vuln07/README.md](vuln07/README.md) |
 | `Vulnerability Report 08`   | [vuln08/README.md](vuln08/README.md) |
+| `Vulnerability Report 09`   | [vuln09/README.md](vuln09/README.md) |
 
 # Source Leak Exclusive Vulnerability
 
